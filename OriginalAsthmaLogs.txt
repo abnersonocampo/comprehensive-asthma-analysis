@@ -1,0 +1,1745 @@
+Temperature 73 F (time of shortness of breath)
+Food No
+Position Sitting (Work)
+Time 5PM
+Date November 11, 2021
+Day Thursday
+Vitamin C No
+Vitamin D No
+Simvastatin Yes
+Fatigue No
+Sneeze No
+Nebulize? 10 PM
+Oxygen Level Before 99%
+Oxygen Level During Neb 99%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 76 BPM
+Wheezing No
+Hours of Sleep Last Night 4
+Stressing Event? No
+Location? House
+
+Temperature 80 F (time of shortness of breath)
+Food Yes
+Position Sitting Sitting(Bed)
+Time 8:30 PM
+Date November 12, 2021
+Day Friday
+Vitamin C No
+Vitamin D No
+Simvastatin Yes
+Fatigue No
+Sneeze No
+Nebulize? 8:40 PM
+Oxygen Level Before Neb 99%
+Oxygen Level During Neb 99%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 81 BPM
+Wheezing No
+Hours of Sleep Last Night 7
+Stressing Event? Yes
+
+Temperature 76 F (time of shortness of breath)
+Food No
+Position Laying in Bed
+Time 3:50 AM
+Date November 14, 2021
+Day Sunday
+Vitamin C No
+Vitamin D No
+Simvastatin Yes
+Fatigue No
+Sneeze No
+Nebulize? 4:00 AM
+Oxygen Level Before Neb 99%
+Oxygen Level During Neb 99%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythmm
+Heart Rate 80 BPM
+Wheezing No
+Hours of Sleep Last Night 8
+Stressing Event? No
+
+Temperature 80 F (time of shortness of breath)
+Food No
+Position Laying in Bed
+Time 7:10 PM
+Date November 15, 2021
+Day Monday
+Vitamin C No
+Vitamin D No
+Simvastatin Yes
+Fatigue No
+Sneeze No
+Nebulize? 7:10 PM
+Oxygen Level Before Neb 99%
+Oxygen Level During Neb 99%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 75 BPM
+Wheezing No
+Hours of Sleep Last Night 4
+Stressing Event? No
+
+Temperature 76 F (time of shortness of breath)
+Food Yes
+Position Sitting (Work)
+Time 10:00 PM
+Date November 17, 2021
+Day Wednesday
+Vitamin C No
+Vitamin D No
+Simvastatin Yes
+Fatigue No
+Sneeze No
+Nebulize? 10 PM
+Oxygen Level Before 99%
+Oxygen Level During Neb 99%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result? Sinus Rhythm
+Heart Rate 76 BPM
+Wheezing No
+Hours of Sleep Last Night 7
+Stressing Event? No
+
+Temperature 75 F (time of shortness of breath)
+Food No
+Position Sleeping
+Time 5:00 AM
+Date November 21, 2021
+Day Sunday
+Vitamin C No
+Vitamin D No
+Simvastatin Yes
+Fatigue No
+Sneeze No
+Nebulize? 6:00 AM
+Oxygen Level Before 99%
+Oxygen Level During Neb 99%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result? Sinus Rhythm
+Heart Rate 77 BPM
+Wheezing No
+Hours of Sleep Last Night 8
+Stressing Event? Yes
+
+Te mperature 80F time of shortness of breath)
+Food No
+Position Sleeping
+Time 2:10 AM
+Date November 22, 2021
+Day Monday
+Vitamin C No
+Vitamin D No
+Simvastatin Yes
+Fatigue No
+Sneeze No
+Nebulize? 2:20 AM
+Oxygen Level Before 99%
+Oxygen Level During Neb 99%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result? Sinus Rhythm
+Heart Rate 77 BPM
+Wheezing No
+Hours of Sleep Last Night 6
+Stressing Event? Yes
+
+Temperature 76F time of shortness of breath)
+Food No
+Position Computer(Sitting)
+Time 4:30 AM
+Date November 23, 2021
+Day Tuesday
+Vitamin C No
+Vitamin D No
+Simvastatin Yes
+Fatigue No
+Sneeze No
+Nebulize? 4:35 AM
+Oxygen Level Before 99%
+Oxygen Level During Neb 99%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result? Sinus Rhythm
+Heart Rate 70 BPM
+Wheezing No
+Hours of Sleep Last Night 6
+Stressing Event? Yes
+
+Temperature 76F time of shortness of breath)
+Food Yes
+Position Sofa (Nap)
+Time 7:10 PM
+Date November 23, 2021
+Day Tuesday
+Vitamin C No
+Vitamin D No
+Simvastatin Yes
+Fatigue No
+Sneeze No
+Nebulize? 7:15 PM
+Oxygen Level Before 99%
+Oxygen Level During Neb 99%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result? Sinus Rhythm
+Heart Rate 105 BPM
+Wheezing No
+Hours of Sleep Last Night 7
+Stressing Event? Yes
+
+Temperature 76F time of shortness of breath)
+Food No
+Position Bed (Sleeping)
+Time 10:00 PM
+Date November 25, 2021
+Day Thursday
+Vitamin C No
+Vitamin D No
+Simvastatin Yes
+Fatigue No
+Sneeze No
+Nebulize? 10:30 PM
+Oxygen Level Before 99%
+Oxygen Level During Neb 99%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result? Sinus Rhythm
+Heart Rate 89 BPM
+Wheezing No
+Hours of Sleep Last Night 7
+Stressing Event? No
+
+Temperature 76 F (time of shortness of breath)
+Food Yes
+Position Sitting (PC)
+Time 2:50 AM
+Date November 28, 2021
+Day Sunday
+Vitamin C No
+Vitamin D No
+Simvastatin Yes
+Fatigue No
+Sneeze No
+Nebulize? 3:00 AM
+Oxygen Level Before 99%
+Oxygen Level During Neb 99%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 85 BPM
+Wheezing No
+Hours of Sleep Last Night 7
+Stressing Event? No
+
+Temperature 74 F (time of shortness of breath)
+Food Yes
+Position Sitting
+Time 10:30 PM
+Date November 28, 2021
+Day Sunday
+Vitamin C No
+Vitamin D No
+Simvastatin No
+Fatigue No
+Sneeze No
+Nebulize? 10:40 PM
+Oxygen Level Before 99%
+Oxygen Level During Neb 99%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 76 BPM
+Wheezing No
+Hours of Sleep Last Night 6
+Stressing Event? No
+
+Temperature 74 F (time of shortness of breath)
+Food No
+Position Bed (Laying)
+Time 5:50 AM
+Date November 29, 2021
+Day Monday
+Vitamin C No
+Vitamin D No
+Simvastatin Yes
+Fatigue No
+Sneeze No
+Nebulize? 5:55 AM
+Oxygen Level Before 99%
+Oxygen Level During Neb 99%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 77 BPM
+Wheezing No
+Hours of Sleep Last Night 6
+Stressing Event? Yes
+
+Temperature 80 F (time of shortness of breath)
+Food No
+Position Standing
+Time 5:20 PM
+Date November 29, 2021
+Day Monday
+Vitamin C No
+Vitamin D No
+Simvastatin Yes
+Fatigue No
+Sneeze No
+Nebulize? 5:24 PM
+Oxygen Level Before 99%
+Oxygen Level During Neb 99%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 80 BPM
+Wheezing No
+Hours of Sleep Last Night 7
+Stressing Event? No
+
+Temperature 80 F (time of shortness of breath)
+Food Yes
+Position Sitting
+Time 6 PM
+Date November 30. 2021
+Day Tuesday
+Vitamin C No
+Vitamin D No
+Simvastatin Yes
+Fatigue Yes
+Sneeze No
+Nebulize? 7:09 PM
+Oxygen Level Before 98%
+Oxygen Level During Neb 99%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 95 BPM
+Wheezing No
+Hours of Sleep Last Night 3
+Stressing Event? Yes
+
+Temperature 76 F (time of shortness of breath)
+Food No
+Position Laying(Movie)
+Time 12:40 AM
+Date December 4, 2021
+Day Saturday
+Vitamin C No
+Vitamin D No
+Simvastatin Yes
+Fatigue No
+Sneeze No
+Nebulize? 12:45 AM
+Oxygen Level Before 99%
+Oxygen Level During Neb 99%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 88 BPM
+Wheezing No
+Hours of Sleep Last Night 7
+Stressing Event? Yes
+
+Temperature 76 F (time of shortness of breath)
+Food No
+Position Laying(Sleeping)
+Time 7:00 AM
+Date December 5, 2021
+Day Sunday
+Vitamin C No
+Vitamin D No
+Simvastatin Yes
+Fatigue No
+Sneeze No
+Nebulize? 7:05 AM
+Oxygen Level Before 99%
+Oxygen Level During Neb 99%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 75 BPM
+Wheezing No
+Hours of Sleep Last Night 7
+Stressing Event? Yes
+
+Temperature 76 F (time of shortness of breath)
+Food Yes
+Position Sitting (Eating)
+Time 12:30 PM
+Date December 6, 2021
+Day Monday
+Vitamin C No
+Vitamin D No
+Simvastatin Yes
+Fatigue No
+Sneeze No
+Nebulize? 12:40 PM
+Oxygen Level Before 99%
+Oxygen Level During Neb 99%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 80 BPM
+Wheezing No
+Hours of Sleep Last Night 7
+Stressing Event? Yes
+
+Temperature 75 F (time of shortness of breath)
+Food No
+Position Sitting (Restaurant)
+Time 4:30 PM
+Date December 16, 2021
+Day Thursday
+Vitamin C No
+Vitamin D No
+Simvastatin Yes
+Fatigue No
+Sneeze No
+Nebulize? 4:40 PM
+Oxygen Level Before 99%
+Oxygen Level During Neb 99%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 80 BPM
+Wheezing No
+Hours of Sleep Last Night 4
+Stressing Event? Yes
+
+Temperature 73F (time of shortness of breath)
+Food No
+Position Sitting (Sofa)
+Time 4:10 PM
+Date December 18, 2021
+Day Saturday
+Vitamin C No
+Vitamin D No
+Simvastatin No
+Fatigue No
+Sneeze Yes
+Nebulize? 4:15 PM
+Oxygen Level Before 99%
+Oxygen Level During Neb 99%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 75 BPM
+Wheezing No
+Hours of Sleep Last Night 8
+Stressing Event? No
+
+Temperature 74 F (time of shortness of breath)
+Food No
+Position Sleeping
+Time 11:50 PM
+Date December 20, 2021
+Day Sunday
+Vitamin C No
+Vitamin D No
+Simvastatin No
+Fatigue No
+Sneeze No
+Nebulize? 12:00 AM
+Oxygen Level Before 99%
+Oxygen Level During Neb 99%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 92 BPM
+Wheezing No
+Hours of Sleep Last Night 8
+Stressing Event? Yes
+
+Temperature 79 F (time of shortness of breath)
+Food No
+Position Laying (Bed)
+Time 11:30 PM
+Date December 21, 2021
+Day Tuesday
+Vitamin C Yes
+Vitamin D Yes
+Simvastatin Yes
+Fatigue No
+Sneeze No
+Nebulize? 11:40 PM
+Oxygen Level Before 99%
+Oxygen Level During Neb 99%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 70 BPM
+Wheezing No
+Hours of Sleep Last Night 8
+Stressing Event? No
+
+Temperature 79 F (time of shortness of breath)
+Food Yes
+Position Sitting (Eating)
+Time 6:40 PM
+Date December 23, 2021
+Day Thursday
+Vitamin C Yes
+Vitamin D Yes
+Simvastatin Yes
+Fatigue No
+Sneeze No
+Nebulize? 6:50 PM
+Oxygen Level Before 99%
+Oxygen Level During Neb 99%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 86 BPM
+Wheezing No
+Hours of Sleep Last Night 8
+Stressing Event? Yes
+
+Temperature 84 F (time of shortness of breath)
+Food yes
+Position Laying (Sleeping)
+Time 2:20 AM
+Date December 26, 2021
+Day Sunday
+Vitamin C Yes
+Vitamin D Yes
+Simvastatin Yes
+Fatigue No
+Sneeze No
+Nebulize? 2:45 AM
+Oxygen Level Before 99%
+Oxygen Level During Neb 99%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 96 BPM
+Wheezing No
+Hours of Sleep Last Night 6
+Stressing Event? Yes
+
+Temperature 80 F (time of shortness of breath)
+Food No
+Position Laying (Bee)
+Time 3:30 AM
+Date December 29, 2021
+Day Wednesday
+Vitamin C No
+Vitamin D No
+Simvastatin No
+Fatigue No
+Sneeze No
+Nebulize? 3:40 AM
+Oxygen Level Before 99%
+Oxygen Level During Neb 99%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 72 BPM
+Wheezing No
+Hours of Sleep Last Night 6
+Stressing Event? Yes
+
+Temperature 76 F (time of shortness of breath)
+Food No
+Position Laying (Sleeping)
+Time 6:30 AM
+Date December 30, 2021
+Day Thursday
+Vitamin C No
+Vitamin D No
+Simvastatin Yes
+Fatigue No
+Sneeze No
+Nebulize? 6:35 AM
+Oxygen Level Before 99%
+Oxygen Level During Neb 99%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 70 BPM
+Wheezing No
+Hours of Sleep Last Night 8
+Stressing Event? Yes
+
+Temperature 80 F (time of shortness of breath)
+Food Yes
+Position Laying (Rob’s House)
+Time 2:20 AM
+Date January 1, 2022
+Day Saturday
+Vitamin C Yes
+Vitamin D Yes
+Simvastatin No
+Fatigue No
+Sneeze No
+Nebulize? 2:30 AM
+Oxygen Level Before 99%
+Oxygen Level During Neb 99%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 93 BPM
+Wheezing No
+Hours of Sleep Last Night 7
+Stressing Event? No
+Location? House (Rob)m
+
+Temperature 76 F (time of shortness of breath)
+Food Yes
+Position: Laying (Sleeping)
+Time 9:00 AM
+Date January 2, 2022
+Day Sunday
+Vitamin C Yes
+Vitamin D Yes
+Simvastatin Yes
+Fatigue Yes
+Sneeze No
+Nebulize? 9:10 AM
+Oxygen Level Before 98%
+Oxygen Level During Neb 99%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 108 BPM
+Wheezing No
+Hours of Sleep Last Night 6
+Stressing Event? No
+Location? House (Home)
+
+Temperature 76 F (time of shortness of breath)
+Food Yes
+Position: Sitting (PC)
+Time 4:10 AM
+Date January 3, 2022
+Day Monday
+Vitamin C Yes
+Vitamin D Yes
+Simvastatin Yes
+Fatigue Yes
+Sneeze No
+Nebulize? 4:25 AM
+Oxygen Level Before 99%
+Oxygen Level During Neb 99%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 96 BPM
+Wheezing No
+Hours of Sleep Last Night 8
+Stressing Event? No
+Location? House (Home)
+
+Temperature 80 F (time of shortness of breath)
+Food No
+Position: Laying (Bed)
+Time 12:00 PM
+Date January 3, 2022
+Day Monday
+Vitamin C Yes
+Vitamin D Yes
+Simvastatin No
+Fatigue Yes
+Sneeze Yes
+Nebulize? 12:30 PM
+Oxygen Level Before 99%
+Oxygen Level During Neb 99%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 78 BPM
+Wheezing No
+Hours of Sleep Last Night 2
+Stressing Event? Yes
+Location? House (Home)
+
+Temperature 80 F (time of shortness of breath)
+Food Yes
+Position: Sitting (PC)
+Time 10:00 PM
+Date January 3, 2022
+Day Monday
+Vitamin C No
+Vitamin D Yes
+Simvastatin No
+Fatigue Yes
+Sneeze No
+Nebulize? 10:10 PM
+Oxygen Level Before 99%
+Oxygen Level During Neb 99%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 105 BPM
+Wheezing No
+Hours of Sleep Last Night 7
+Stressing Event? Yes
+Location? House (Home)
+
+Temperature 80 F (time of shortness of breath)
+Food Yes
+Position: Sitting (PC)
+Time 4:10 AM
+Date January 4, 2022
+Day Tuesday
+Vitamin C No
+Vitamin D Yes
+Simvastatin Yes
+Fatigue Yes
+Sneeze No
+Nebulize? 4:30 AM
+Oxygen Level Before 99%
+Oxygen Level During Neb 99%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 100 BPM
+Wheezing No
+Hours of Sleep Last Night 7
+Stressing Event? Yes
+Location? House (Home)
+
+Temperature 77 F (time of shortness of breath)
+Food No
+Position: Sitting (PC)
+Time 9:10 PM
+Date January 16, 2022
+Day Sunday
+Vitamin C No
+Vitamin D No
+Simvastatin Yes
+Fatigue No
+Sneeze No
+Nebulize? 9:13 PM
+Oxygen Level Before 99%
+Oxygen Level During Neb 99%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 70 BPM
+Wheezing Yes
+Hours of Sleep Last Night 6
+Stressing Event? Yes
+Location? House (Home)
+
+Temperature 76 F (time of shortness of breath)
+Food Yes
+Position: Laying (Bed)
+Time 2:30 AM
+Date March 14, 2022
+Day Monday
+Vitamin C No
+Vitamin D No
+Simvastatin Yes
+Fatigue Yes
+Sneeze Yes
+Nebulize? 3:00 AM
+Oxygen Level Before 99%
+Oxygen Level During Neb 99%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 77 BPM
+Wheezing No
+Hours of Sleep Last Night 7
+Stressing Event? Yes
+Location? House (Home)
+
+Temperature 76 F (time of shortness of breath)
+Food Yes
+Position Sleeping
+Time 4 PM
+Date April 3, 2022
+Day Sunday
+Vitamin C No
+Vitamin D No
+Simvastatin Yes
+Fatigue Yes
+Sneeze No
+Nebulize? 4:10 PM
+Oxygen Level Before 99%
+Oxygen Level During Neb 99%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 90 BPM
+Wheezing No
+Hours of Sleep Last Night 1
+Stressing Event? No
+Location? House
+
+Temperature 75 F (time of shortness of breath)
+Food Yes
+Position Sleeping
+Time 6:45 PM
+Date April 12, 2022
+Day Tuesday
+Vitamin C No
+Vitamin D No
+Simvastatin No
+Fatigue Yes
+Sneeze 7:00 PM
+Nebulize? 10 PM
+Oxygen Level Before 99%
+Oxygen Level During Neb 99%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 99 BPM
+Wheezing No
+Hours of Sleep Last Night 5
+Stressing Event? Yes
+Location? House
+
+Temperature 75 F (time of shortness of breath)
+Food Yes
+Position Sleeping
+Time 6:45 PM
+Date April 12, 2022
+Day Tuesday
+Vitamin C No
+Vitamin D No
+Simvastatin No
+Fatigue Yes
+Sneeze 7:00 PM
+Nebulize? 10 PM
+Oxygen Level Before 99%
+Oxygen Level During Neb 99%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 99 BPM
+Wheezing No
+Hours of Sleep Last Night 5
+Stressing Event? Yes
+Location? House
+
+Temperature 80F (time of shortness of breath)
+Food No
+Position Sitting
+Time 10:00 AM
+Date April 14, 2022
+Day Thursday
+Vitamin C Yes
+Vitamin D No
+Simvastatin Yes
+Fatigue No
+Sneeze Yes
+Nebulize? 10:10 AM
+Oxygen Level Before 99%
+Oxygen Level During Neb 99%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 80 BPM
+Wheezing No
+Hours of Sleep Last Night 8
+Stressing Event? Yes
+
+Temperature 77 F (time of shortness of breath)
+Food No
+Position Laying (Movie)
+Time 2:50 PM
+Date April 15, 2022
+Day Friday
+Vitamin C Yes
+Vitamin D No
+Simvastatin Yes
+Fatigue No
+Sneeze No
+Nebulize? 3:05 PM
+Oxygen Level Before 99%
+Oxygen Level During Neb 99%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 70 BPM
+Wheezing No
+Hours of Sleep Last Night 8
+Stressing Event? Yes
+Location? House
+
+Temperature 76 F (time of shortness of breath)
+Food Yes
+Position Laying (Sleeping)
+Time 6:20 PM
+Date April 16, 2022
+Day Saturday
+Vitamin C No
+Vitamin D No
+Simvastatin No
+Fatigue No
+Sneeze No
+Nebulize? 6:35 PM
+Oxygen Level Before 99%
+Oxygen Level During Neb 99%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 88 BPM
+Wheezing No
+Hours of Sleep Last Night 8
+Stressing Event? Yes
+Location? House
+
+Temperature 75 F (time of shortness of breath)
+Food No
+Position Sleeping
+Time 4:20 PM
+Date May 14, 2022
+Day Saturday
+Vitamin C No
+Vitamin D Yes
+Simvastatin Yes
+Fatigue Yes
+Sneeze No
+Nebulize? 4:40 PM
+Oxygen Level Before 99%
+Oxygen Level During Neb 99%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 80 BPM
+Wheezing No
+Hours of Sleep Last Night 4
+Stressing Event? Yes
+Location? House
+
+Temperature 81 F (time of shortness of breath)
+Food No
+Position Sleeping
+Time 1:50 PM
+Date May 15, 2022
+Day Sunday
+Vitamin C No
+Vitamin D No
+Simvastatin No
+Fatigue Yes
+Sneeze No
+Nebulize? 2:05 PM
+Oxygen Level Before 99%
+Oxygen Level During Neb 99%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 78 BPM
+Wheezing No
+Hours of Sleep Last Night 4
+Stressing Event? Yes
+Location? House
+
+Temperature 77 F (time of shortness of breath)
+Food Yes
+Position Sleeping
+Time 4:45 PM
+Date June 19, 2022
+Day Sunday
+Vitamin C No
+Vitamin D No
+Simvastatin Yes
+Fatigue Yes
+Sneeze No
+Nebulize? 4:50 PM
+Oxygen Level Before 99%
+Oxygen Level During Neb 99%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 105 BPM
+Wheezing No
+Hours of Sleep Last Night 1
+Stressing Event? Yes
+Location? House
+
+Temperature 70 F (time of shortness of breath)
+Food Yes
+Position Sitting (PC)
+Time 8:40 PM
+Date August 1, 2022
+Day Monday
+Vitamin C No
+Vitamin D No
+Simvastatin Yes
+Fatigue No
+Sneeze No
+Nebulize? 8:55 PM
+Oxygen Level Before 99%
+Oxygen Level During Neb 99%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 70 BPM
+Wheezing No
+Hours of Sleep Last Night 8
+Stressing Event? No
+Location? House
+
+Temperature 75 F (time of shortness of breath)
+Food No
+Position Bed (Sleeping)
+Time 9:00 AM
+Date August 4, 2022
+Day Thursday
+Vitamin C No
+Vitamin D No
+Simvastatin Yes
+Fatigue Yes
+Sneeze No
+Nebulize? 9:20 AM
+Oxygen Level Before 99%
+Oxygen Level During Neb 99%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 70 BPM
+Wheezing No
+Hours of Sleep Last Night 6
+Stressing Event? Yes
+Location? House
+
+Temperature 74 F (time of shortness of breath)
+Food Yes
+Position Standing (Work)
+Time 7:30 PM
+Date August 5, 2022
+Day Friday
+Vitamin C No
+Vitamin D No
+Simvastatin Yes
+Fatigue Yes
+Sneeze No
+Nebulize? 7:50 PM
+Oxygen Level Before 99%
+Oxygen Level During Neb 99%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 75 BPM
+Wheezing No
+Hours of Sleep Last Night 8
+Stressing Event? Yes
+Location? Work (Amazon)
+
+Temperature 77 F (time of shortness of breath)
+Food Yes
+Position On my back (Bed)
+Time 2:40 AM
+Date November 12, 2022
+Day Saturday
+Vitamin C No
+Vitamin D No
+Simvastatin Yes
+Fatigue No
+Sneeze No
+Nebulize? 3:20 AM
+Oxygen Level Before 98%
+Oxygen Level During Neb 98%
+Oxygen Level After Neb 98%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 100 BPM
+Wheezing No
+Hours of Sleep Last Night 7
+Stressing Event? Yes
+Location? House
+
+Temperature 73 F (time of shortness of breath)
+Food No
+Position Laying (Sleeping)
+Time 8:40 AM
+Date December 17, 2022
+Day Saturday
+Vitamin C No
+Vitamin D No
+Simvastatin Yes
+Fatigue Yes
+Sneeze No
+Nebulize? 9:10 AM
+Oxygen Level Before 98%
+Oxygen Level During Neb 98%
+Oxygen Level After Neb 98%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 91 BPM
+Wheezing No
+Hours of Sleep Last Night 0
+Stressing Event? Yes
+Location? House
+
+Temperature 72 F (time of shortness of breath)
+Food No
+Position Sleeping
+Time 12:30 PM
+Date December 22, 2022
+Day Thursday
+Vitamin C No
+Vitamin D No
+Simvastatin Yes
+Fatigue Yes
+Sneeze No
+Nebulize? 12:31 PM
+Oxygen Level Before 99%
+Oxygen Level During Neb 99%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 92 BPM
+Wheezing No
+Hours of Sleep Last Night 0
+Stressing Event? No
+Location? House
+
+Temperature 73 F (time of shortness of breath)
+Food Yes
+Position Sitting
+Time 9:00 PM
+Date December 31, 2022
+Day Saturday
+Vitamin C No
+Vitamin D No
+Simvastatin Yes
+Fatigue Yes
+Sneeze No
+Nebulize? 9:55 PM
+Oxygen Level Before 99%
+Oxygen Level During Neb 99%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 85 BPM
+Wheezing No
+Hours of Sleep Last Night 6
+Stressing Event? Yes
+Location? House
+
+Temperature 73 F (time of shortness of breath)
+Food No
+Position Sitting
+Time 1:00 PM
+Date January 13, 2023
+Day Friday
+Vitamin C No
+Vitamin D No
+Simvastatin Yes
+Fatigue No
+Sneeze Yes
+Nebulize? 1:30 PM
+Oxygen Level Before 99%
+Oxygen Level During Neb 99%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 80 BPM
+Wheezing Yes
+Hours of Sleep Last Night 6
+Stressing Event? No
+Location? House
+
+Temperature 72 F (time of shortness of breath)
+Food Yes
+Position Sleeping (Bed)
+Time 4:40 PM
+Date February 26, 2023
+Day Sunday
+Vitamin C Yes
+Vitamin D No
+Simvastatin Yes
+Fatigue No
+Sneeze No
+Nebulize? 4:50 PM
+Oxygen Level Before 99%
+Oxygen Level During Neb 99%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 90 BPM
+Wheezing No
+Hours of Sleep Last Night 4
+Stressing Event? No
+Location? House
+
+Temperature 70 F (time of shortness of breath)
+Food No
+Position Shower
+Time 10:30 PM
+Date March 1, 2023
+Day Wednesday
+Vitamin C No
+Vitamin D No
+Simvastatin Yes
+Fatigue Yes
+Sneeze No
+Nebulize? 10:45 PM
+Oxygen Level Before 98%
+Oxygen Level During Neb 98%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 100 BPM
+Wheezing No
+Hours of Sleep Last Night 4
+Stressing Event? Yes
+Location? House
+
+Temperature 74 F (time of shortness of breath)
+Food No
+Position Laying (Bed)
+Time 12:00 AM
+Date March 4, 2023
+Day Saturday
+Vitamin C No
+Vitamin D No
+Simvastatin Yes
+Fatigue Yes
+Sneeze Yes
+Nebulize? 12:45 AM
+Oxygen Level Before 98%
+Oxygen Level During Neb 99%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 100 BPM
+Wheezing No
+Hours of Sleep Last Night 4
+Stressing Event? Yes
+Location? House
+
+Temperature 72 F (time of shortness of breath)
+Food No
+Position Sitting (PC)
+Time 1:00 AM
+Date March 5, 2023
+Day Sunday
+Vitamin C Yes
+Vitamin D No
+Simvastatin Yes
+Fatigue Yes
+Sneeze Yes
+Nebulize? 1:55 PM
+Oxygen Level Before 99%
+Oxygen Level During Neb 99%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 85 BPM
+Wheezing No
+Hours of Sleep Last Night 8
+Stressing Event? No
+Location? House
+
+Temperature 73 F (time of shortness of breath)
+Food No
+Position Sitting (PC)
+Time 12:00 AM
+Date March 6, 2023
+Day Monday
+Vitamin C Yes
+Vitamin D No
+Simvastatin Yes
+Fatigue Yes
+Sneeze Yes
+Nebulize? 1:20 AM
+Oxygen Level Before 99%
+Oxygen Level During Neb 99%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 80 BPM
+Wheezing No
+Hours of Sleep Last Night 3
+Stressing Event? Yes
+Location? House
+
+Temperature 73 F (time of shortness of breath)
+Food Yes
+Position Laying (Bed)
+Time 6:00 PM
+Date March 6, 2023
+Day Monday
+Vitamin C No
+Vitamin D No
+Simvastatin Yes
+Fatigue No
+Sneeze Yes
+Nebulize? 8:00 PM
+Oxygen Level Before 99%
+Oxygen Level During Neb 99%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 85 BPM
+Wheezing Yes
+Hours of Sleep Last Night 8
+Stressing Event? Yes
+Location? House
+
+Temperature 73 F (time of shortness of breath)
+Food Yes
+Position Sitting (PC)
+Time 7:00 PM
+Date March 7, 2023
+Day Tuesday
+Vitamin C Yes
+Vitamin D No
+Simvastatin Yes
+Fatigue No
+Sneeze Yes
+Nebulize? 10:35 PM
+Oxygen Level Before 99%
+Oxygen Level During Neb 99%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 95 BPM
+Wheezing No
+Hours of Sleep Last Night 8
+Stressing Event? Yes
+Location? House
+
+Temperature 73 F (time of shortness of breath)
+Food No
+Position Laying (Sleeping)
+Time 7:30 AM
+Date April 30, 2023
+Day Sunday
+Vitamin C No
+Vitamin D No
+Simvastatin Yes
+Fatigue No
+Sneeze No
+Nebulize? 7:45 AM
+Oxygen Level Before 99%
+Oxygen Level During Neb 99%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 90 BPM
+Wheezing No
+Hours of Sleep Last Night 3
+Stressing Event? Yes
+Location? House
+
+Temperature 75 F (time of shortness of breath)
+Food Yes
+Position Sitting (Bed)
+Time 8:30 PM
+Date May 1, 2023
+Day Monday
+Vitamin C No
+Vitamin D No
+Simvastatin Yes
+Fatigue Yes
+Sneeze Yes
+Nebulize? 9:20 PM
+Oxygen Level Before 98%
+Oxygen Level During Neb 98%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 90 BPM
+Wheezing No
+Hours of Sleep Last Night 5
+Stressing Event? Yes
+Location? House
+
+Temperature 68 F (time of shortness of breath)
+Food Yes
+Position Sitting (PC)
+Time 4:50 AM
+Date May 3, 2023
+Day Wednesday
+Vitamin C No
+Vitamin D No
+Simvastatin No
+Fatigue No
+Sneeze No
+Nebulize? 5:00 AM
+Oxygen Level Before 98%
+Oxygen Level During Neb 98%
+Oxygen Level After Neb 98%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 105 BPM
+Wheezing No
+Hours of Sleep Last Night 8
+Stressing Event? Yes
+Location? House
+
+Temperature 72 F (time of shortness of breath)
+Food No
+Position Laying (Sleeping)
+Time 3:40 PM
+Date May 4, 2023
+Day Thursday
+Vitamin C No
+Vitamin D No
+Simvastatin Yes
+Fatigue No
+Sneeze No
+Nebulize? 4:05  PM
+Oxygen Level Before 99%
+Oxygen Level During Neb 99%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 85 BPM
+Wheezing No
+Hours of Sleep Last Night 5
+Stressing Event? Yes
+Location? House
+
+Temperature 72 F (time of shortness of breath)
+Food No
+Position Sleeping (Bed)
+Time 12PM
+Date May 12, 2023
+Day Friday
+Vitamin C Yes
+Vitamin D Yes
+Simvastatin Yes
+Fatigue No
+Sneeze Yes
+Nebulize? 5:06 PM
+Oxygen Level Before 98%
+Oxygen Level During Neb 98%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 85 BPM
+Wheezing No
+Hours of Sleep Last Night 7
+Stressing Event? No
+Location? House
+
+Temperature 70 F (time of shortness of breath)
+Food Yes
+Position Standing (Shower)
+Time 7:45 AM
+Date May 13, 2013
+Day Saturday
+Vitamin C Yes
+Vitamin D Yes
+Simvastatin Yes
+Fatigue Yes
+Sneeze Yes
+Nebulize? 8:20 AM
+Oxygen Level Before 99%
+Oxygen Level During Neb 99%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 105 BPM
+Wheezing No
+Hours of Sleep Last Night 7
+Stressing Event? No
+Location? House
+
+Temperature 71 F (time of shortness of breath)
+Food No
+Position Sleeping (Bed)
+Time 4:15 PM
+Date May 13, 2023
+Day Saturday
+Vitamin C No
+Vitamin D No
+Simvastatin Yes
+Fatigue Yes
+Sneeze Yes
+Nebulize? 4:40 PM
+Oxygen Level Before 99%
+Oxygen Level During Neb 99%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 90 BPM
+Wheezing No
+Hours of Sleep Last Night 5
+Stressing Event? No
+Location? House
+
+Temperature 72 F (time of shortness of breath)
+Food No
+Position Standing
+Time 6:40 AM
+Date May 14, 2023
+Day Sunday
+Vitamin C No
+Vitamin D No
+Simvastatin Yes
+Fatigue Yes
+Sneeze Yes
+Nebulize? 7:40 AM
+Oxygen Level Before 98%
+Oxygen Level During Neb 98%
+Oxygen Level After Neb 98%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 90 BPM
+Wheezing No
+Hours of Sleep Last Night 5
+Stressing Event? No
+Location? House
+
+Temperature 72 F (time of shortness of breath)
+Food Yes
+Position Sitting (Bed)
+Time 10:10 AM
+Date May 14, 2023
+Day Sunday
+Vitamin C Yes
+Vitamin D No
+Simvastatin Yes
+Fatigue Yes
+Sneeze Yes
+Nebulize? 10:40 AM
+Oxygen Level Before 98%
+Oxygen Level During Neb 98%
+Oxygen Level After Neb 98%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 100 BPM
+Wheezing No
+Hours of Sleep Last Night 5
+Stressing Event? Yes
+Location? House
+
+Temperature 73 F (time of shortness of breath)
+Food Yes
+Position Sitting (Bed)
+Time 3:00 AM
+Date May 15, 2023
+Day Monday
+Vitamin C Yes
+Vitamin D No
+Simvastatin Yes
+Fatigue Yes
+Sneeze Yes
+Nebulize? 3:30 AM
+Oxygen Level Before 98%
+Oxygen Level During Neb 98%
+Oxygen Level After Neb 98%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 108 BPM
+Wheezing No
+Hours of Sleep Last Night 8
+Stressing Event? Yes
+Location? House
+
+Temperature 80 F (time of shortness of breath)
+Food No
+Position Sleeping (Bed)
+Time 12:30 PM
+Date May 15, 2023
+Day Monday
+Vitamin C Yes
+Vitamin D No
+Simvastatin Yes
+Fatigue Yes
+Sneeze Yes
+Nebulize? 12:50 PM
+Oxygen Level Before 98%
+Oxygen Level During Neb 98%
+Oxygen Level After Neb 98%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 100 BPM
+Wheezing No
+Hours of Sleep Last Night 4
+Stressing Event? Yes
+Location? House
+
+Temperature 72 F (time of shortness of breath)
+Food Yes
+Position Sitting (PC)
+Time 11:00 AM
+Date May 16, 2023
+Day Tuesday
+Vitamin C Yes
+Vitamin D No
+Simvastatin Yes
+Fatigue Yes
+Sneeze Yes
+Nebulize? 11:40 AM
+Oxygen Level Before 97%
+Oxygen Level During Neb 98%
+Oxygen Level After Neb 98%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 100 BPM
+Wheezing Yes
+Hours of Sleep Last Night 8
+Stressing Event? Yes
+Location? House
+
+Temperature 79 F (time of shortness of breath)
+Food No
+Position Sleeping
+Time 9:30 AM
+Date May 25, 2023
+Day Thursday
+Vitamin C Yes
+Vitamin D No
+Simvastatin Yes
+Fatigue No
+Sneeze No
+Nebulize? 10:35 AM
+Oxygen Level Before 98%
+Oxygen Level During Neb 98%
+Oxygen Level After Neb 98%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 100 BPM
+Wheezing No
+Hours of Sleep Last Night 5
+Stressing Even
+
+Temperature 68 F (time of shortness of breath)
+Food Yes
+Position Sitting
+Time 2:30 AM
+Date October 22, 2023
+Day Sunday
+Vitamin C No
+Vitamin D No
+Simvastatin No
+Fatigue Yes
+Sneeze No
+Nebulize? 2:55 AM
+Oxygen Level Before 98%
+Oxygen Level During Neb 98%
+Oxygen Level After Neb 98%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 111 BPM
+Wheezing Yes
+Hours of Sleep Last Night 4
+Stressing Event? Yes
+Location? House
+
+Temperature 73 F (time of shortness of breath)
+Food Yes
+Position Laying (Bed)
+Time 8 PM
+Date May 7, 2024
+Day Wednesday
+Vitamin C No
+Vitamin D No
+Simvastatin No
+Fatigue No
+Sneeze No
+Nebulize? 10 PM
+Oxygen Level Before 96%
+Oxygen Level During Neb 98%
+Oxygen Level After Neb 98%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 96 BPM
+Wheezing No
+Hours of Sleep Last Night 4
+Stressing Event? Yes
+Location? House
+
+Temperature 73 F (time of shortness of breath)
+Food Yes
+Position Sitting (PC)
+Time 5 PM
+Date May 8, 2024
+Day Wednesday
+Vitamin C No
+Vitamin D No
+Simvastatin No
+Fatigue No
+Sneeze No
+Nebulize? 10:30 PM
+Oxygen Level Before 98%
+Oxygen Level During Neb 98%
+Oxygen Level After Neb 98%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 90 BPM
+Wheezing No
+Hours of Sleep Last Night 5
+Stressing Event? Yes
+Location? House
+
+Temperature 70 F (time of shortness of breath)
+Food No
+Position Laying (Bed)
+Time 7:00 AM
+Date May 10, 2024
+Day Friday
+Vitamin C No
+Vitamin D No
+Simvastatin No
+Fatigue No
+Sneeze Yes
+Nebulize? 9:30 AM
+Oxygen Level Before 98%
+Oxygen Level During Neb 98%
+Oxygen Level After Neb 98%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 85 BPM
+Wheezing No
+Hours of Sleep Last Night 4
+Stressing Event? Yes
+Location? House
+
+Temperature 77 F (time of shortness of breath)
+Food No
+Position Laying (Bed)
+Time 6:30 AM
+Date June 28, 2024
+Day Friday
+Vitamin C No
+Vitamin D No
+Simvastatin No
+Fatigue Yes
+Sneeze Yes
+Nebulize? 6:45 AM
+Oxygen Level Before 97%
+Oxygen Level During Neb 98%
+Oxygen Level After Neb 98%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 115 BPM
+Wheezing No
+Hours of Sleep Last Night 3
+Stressing Event? Yes
+Location? House
+Covid: Yes
+
+Temperature 72 F (time of shortness of breath)
+Food No
+Position Laying (Bed)
+Time 5:40 PM
+Date June 28, 2024
+Day Friday
+Vitamin C No
+Vitamin D No
+Simvastatin No
+Fatigue Yes
+Sneeze Yes
+Nebulize? 5:05 PM
+Oxygen Level Before 99%
+Oxygen Level During Neb 99%
+Oxygen Level After Neb 99%
+Nebulizer Worked? Yes
+ECG Result Sinus Rhythm
+Heart Rate 77 BPM
+Wheezing No
+Hours of Sleep Last Night 5
+Stressing Event? Yes
+Location? House
+Covid: Yes

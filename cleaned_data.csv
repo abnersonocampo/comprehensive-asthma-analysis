@@ -1,0 +1,77 @@
+EpisodeTimeStamp,Day,Position_Context,Episode_Position,Temperature (F),NebulizeTimeStamp,Oxygen_Before_Neb (%),Oxygen_During_Neb (%),Oxygen_After_Neb (%),HeartRate (BPM),ECG,Neb_Worked,Wheezing,Fatigue,Sneeze,StressingEvent,HoursOfSleep,Food,Vitamin C,Vitamin D,Simvastatin
+2021-11-11 17:00:00,Thursday,Work,Sitting,73,2021-11-11 22:00:00,99,99,99,76,Sinus Rhythm,Yes,No,No,No,No,4,No,No,No,Yes
+2021-11-12 20:30:00,Friday,Bed,Sitting,80,2021-11-12 20:40:00,99,99,99,81,Sinus Rhythm,Yes,No,No,No,Yes,7,Yes,No,No,Yes
+2021-11-14 03:50:00,Sunday,Bed,Laying,76,2021-11-14 04:00:00,99,99,99,80,Sinus Rhythm,Yes,No,No,No,No,8,No,No,No,Yes
+2021-11-15 19:10:00,Monday,Bed,Laying,80,2021-11-15 19:10:00,99,99,99,75,Sinus Rhythm,Yes,No,No,No,No,4,No,No,No,Yes
+2021-11-17 22:00:00,Wednesday,Work,Sitting,76,2021-11-17 22:00:00,99,99,99,76,Sinus Rhythm,Yes,No,No,No,No,7,Yes,No,No,Yes
+2021-11-21 05:00:00,Sunday,Bed,Sleeping,75,2021-11-21 06:00:00,99,99,99,77,Sinus Rhythm,Yes,No,No,No,Yes,8,No,No,No,Yes
+2021-11-22 02:10:00,Monday,Bed,Sleeping,80,2021-11-22 02:20:00,99,99,99,77,Sinus Rhythm,Yes,No,No,No,Yes,6,No,No,No,Yes
+2021-11-23 04:30:00,Tuesday,Computer,Sitting,76,2021-11-23 04:35:00,99,99,99,70,Sinus Rhythm,Yes,No,No,No,Yes,6,No,No,No,Yes
+2021-11-23 19:10:00,Tuesday,Living Room,Sleeping,76,2021-11-23 07:15:00,99,99,99,105,Sinus Rhythm,Yes,No,No,No,Yes,6,Yes,No,No,Yes
+2021-11-25 22:00:00,Thursday,Bed,Sleeping,76,2021-11-25 22:30:00,99,99,99,89,Sinus Rhythm,Yes,No,No,No,No,7,No,No,No,Yes
+2021-11-28 02:50:00,Sunday,Computer,Sitting,76,2021-11-28 03:00:00,99,99,99,85,Sinus Rhythm,Yes,No,No,No,No,7,Yes,No,No,No
+2021-11-28 22:30:00,Sunday,Bed,Sitting,74,2021-11-28 22:40:00,99,99,99,76,Sinus Rhythm,Yes,No,No,No,No,6,Yes,No,No,No
+2021-11-29 05:50:00,Monday,Bed,Laying,74,2021-11-29 05:55:00,99,99,99,77,Sinus Rhythm,Yes,No,No,No,Yes,6,No,No,No,Yes
+2021-11-29 17:20:00,Monday,Bed,Standing,80,2021-11-29 17:24:00,99,99,99,80,Sinus Rhythm,Yes,No,No,No,No,7,No,No,No,Yes
+2021-11-30 18:00:00,Tuesday,Bed,Sitting,80,2021-11-30 19:09:00,98,99,99,95,Sinus Rhythm,Yes,No,Yes,No,Yes,3,Yes,No,No,Yes
+2021-12-04 00:40:00,Saturday,Public Place,Laying,76,2021-12-04 00:45:00,99,99,99,88,Sinus Rhythm,Yes,No,No,No,Yes,7,No,No,No,Yes
+2021-12-05 07:00:00,Sunday,Bed,Laying,76,2021-12-05 07:05:00,99,99,99,75,Sinus Rhythm,Yes,No,No,No,Yes,7,No,No,No,Yes
+2021-12-06 12:30:00,Monday,Dining,Sitting,76,2021-12-06 12:40:00,99,99,99,80,Sinus Rhythm,Yes,No,No,No,Yes,7,Yes,No,No,Yes
+2021-12-16 16:30:00,Thursday,Public Place,Sitting,75,2021-12-16 16:40:00,99,99,99,80,Sinus Rhythm,Yes,No,No,No,Yes,4,No,No,No,Yes
+2021-12-18 16:10:00,Saturday,Living Room,Sitting,73,2021-12-18 16:15:00,99,99,99,75,Sinus Rhythm,Yes,No,No,Yes,No,8,No,No,No,No
+2021-12-20 23:50:00,Monday,Bed,Sleeping,74,2021-12-20 00:00:00,99,99,99,92,Sinus Rhythm,Yes,No,No,No,Yes,8,No,No,No,No
+2021-12-21 23:30:00,Tuesday,Bed,Laying,79,2021-12-21 23:40:00,99,99,99,70,Sinus Rhythm,Yes,No,No,No,No,8,No,Yes,Yes,Yes
+2021-12-23 18:40:00,Thursday,Dining,Sitting,79,2021-12-23 18:50:00,99,99,99,86,Sinus Rhythm,Yes,No,No,No,Yes,8,Yes,Yes,Yes,Yes
+2021-12-26 02:20:00,Sunday,Bed,Laying,84,2021-12-26 02:45:00,99,99,99,96,Sinus Rhythm,Yes,No,No,No,Yes,6,Yes,Yes,Yes,Yes
+2021-12-29 03:30:00,Wednesday,Bed,Laying,80,2021-12-29 03:40:00,99,99,99,72,Sinus Rhythm,Yes,No,No,No,Yes,6,No,No,No,No
+2021-12-30 06:30:00,Thursday,Bed,Laying,76,2021-12-30 06:35:00,99,99,99,70,Sinus Rhythm,Yes,No,No,No,Yes,8,No,No,No,Yes
+2022-01-01 02:20:00,Saturday,Public Place,Laying,80,2022-01-01 02:30:00,99,99,99,93,Sinus Rhythm,Yes,No,No,No,No,7,Yes,Yes,Yes,No
+2022-01-02 09:00:00,Sunday,Bed,Laying,76,2022-01-02 09:10:00,98,99,99,108,Sinus Rhythm,Yes,No,Yes,No,No,6,Yes,Yes,Yes,Yes
+2022-01-03 04:10:00,Monday,Computer,Sitting,76,2022-01-03 04:25:00,99,99,99,96,Sinus Rhythm,Yes,No,Yes,No,No,8,Yes,Yes,Yes,Yes
+2022-01-03 12:00:00,Monday,Bed,Laying,80,2022-01-03 12:30:00,99,99,99,78,Sinus Rhythm,Yes,No,Yes,Yes,Yes,2,No,Yes,Yes,No
+2022-01-03 22:00:00,Monday,Computer,Sitting,80,2022-01-03 22:10:00,99,99,99,105,Sinus Rhythm,Yes,No,Yes,No,Yes,7,Yes,No,Yes,No
+2022-01-04 04:10:00,Tuesday,Computer,Sitting,80,2022-01-04 04:30:00,99,99,99,100,Sinus Rhythm,Yes,No,Yes,No,Yes,7,Yes,No,Yes,Yes
+2022-01-16 21:10:00,Sunday,Computer,Sitting,77,2022-01-16 21:13:00,99,99,99,70,Sinus Rhythm,Yes,Yes,No,No,Yes,6,No,No,No,Yes
+2022-03-14 02:30:00,Monday,Bed,Laying,76,2022-03-14 03:00:00,99,99,99,77,Sinus Rhythm,Yes,No,Yes,Yes,Yes,7,Yes,No,No,Yes
+2022-04-03 16:00:00,Sunday,Bed,Sleeping,76,2022-04-03 16:10:00,99,99,99,90,Sinus Rhythm,Yes,No,Yes,No,No,1,Yes,No,No,Yes
+2022-04-12 18:45:00,Tuesday,Bed,Sleeping,75,2022-04-12 22:00:00,99,99,99,99,Sinus Rhythm,Yes,No,Yes,No,Yes,5,Yes,No,No,No
+2022-04-14 10:00:00,Thursday,Bed,Sitting,80,2022-04-14 10:10:00,99,99,99,80,Sinus Rhythm,Yes,No,No,Yes,Yes,8,No,Yes,No,Yes
+2022-04-15 14:50:00,Friday,Public Place,Laying,77,2022-04-15 15:05:00,99,99,99,70,Sinus Rhythm,Yes,No,No,No,Yes,8,No,Yes,No,Yes
+2022-04-16 18:20:00,Saturday,Bed,Laying,76,2022-04-16 18:35:00,99,99,99,88,Sinus Rhythm,Yes,No,No,No,Yes,8,Yes,No,No,No
+2022-05-14 16:20:00,Saturday,Bed,Sleeping,75,2022-05-14 16:40:00,99,99,99,80,Sinus Rhythm,Yes,No,Yes,No,Yes,4,No,No,Yes,Yes
+2022-05-15 13:50:00,Sunday,Bed,Sleeping,81,2022-05-15 14:05:00,99,99,99,78,Sinus Rhythm,Yes,No,Yes,No,Yes,4,No,No,No,No
+2022-06-19 16:45:00,Sunday,Bed,Sleeping,77,2022-06-19 16:50:00,99,99,99,105,Sinus Rhythm,Yes,No,Yes,No,Yes,1,Yes,No,No,Yes
+2022-08-01 20:40:00,Monday,Computer,Sitting,70,2022-08-01 20:55:00,99,99,99,70,Sinus Rhythm,Yes,No,No,No,No,8,Yes,No,No,Yes
+2022-08-04 09:00:00,Thursday,Bed,Sleeping,75,2022-08-04 09:20:00,99,99,99,70,Sinus Rhythm,Yes,No,Yes,No,Yes,6,No,No,No,Yes
+2022-08-05 19:30:00,Friday,Work,Standing,74,2022-08-05 19:50:00,99,99,99,75,Sinus Rhythm,Yes,No,Yes,No,Yes,8,Yes,No,No,Yes
+2022-11-12 02:40:00,Saturday,Bed,Laying,77,2022-11-12 03:20:00,98,98,98,100,Sinus Rhythm,Yes,No,No,No,Yes,7,Yes,No,No,Yes
+2022-12-17 08:40:00,Saturday,Bed,Sleeping,73,2022-12-17 09:10:00,98,98,98,91,Sinus Rhythm,Yes,No,Yes,No,Yes,0,No,No,No,Yes
+2022-12-22 12:30:00,Thursday,Bed,Sleeping,72,2022-12-22 12:31:00,99,99,99,92,Sinus Rhythm,Yes,No,Yes,No,No,0,No,No,No,Yes
+2022-12-31 21:00:00,Saturday,Bed,Sitting,73,2022-12-31 21:55:00,99,99,99,85,Sinus Rhythm,Yes,No,Yes,No,Yes,6,Yes,No,No,Yes
+2023-01-13 13:00:00,Friday,Bed,Sitting,73,2023-01-13 13:30:00,99,99,99,80,Sinus Rhythm,Yes,Yes,No,Yes,No,6,No,No,No,Yes
+2023-02-26 16:40:00,Sunday,Bed,Sleeping,72,2023-02-26 16:50:00,99,99,99,90,Sinus Rhythm,Yes,No,No,No,No,4,Yes,Yes,No,Yes
+2023-03-01 22:30:00,Wednesday,Bathroom,Standing,70,2023-03-01 22:45:00,98,98,99,100,Sinus Rhythm,Yes,No,Yes,No,Yes,4,No,No,No,Yes
+2023-03-04 00:00:00,Saturday,Bed,Laying,74,2023-03-04 00:45:00,98,99,99,100,Sinus Rhythm,Yes,No,Yes,Yes,Yes,4,No,No,No,Yes
+2023-03-05 01:00:00,Sunday,Computer,Sitting,72,2023-03-05 13:55:00,99,99,99,85,Sinus Rhythm,Yes,No,Yes,Yes,No,8,No,Yes,No,Yes
+2023-03-06 00:00:00,Monday,Computer,Sitting,73,2023-03-06 01:20:00,99,99,99,80,Sinus Rhythm,Yes,No,Yes,Yes,Yes,3,No,Yes,No,Yes
+2023-03-06 18:00:00,Monday,Bed,Laying,73,2023-03-06 20:00:00,99,99,99,85,Sinus Rhythm,Yes,Yes,No,Yes,Yes,8,Yes,No,No,Yes
+2023-03-07 19:00:00,Tuesday,Computer,Sitting,73,2023-03-07 22:35:00,99,99,99,95,Sinus Rhythm,Yes,No,No,Yes,Yes,8,Yes,Yes,No,Yes
+2023-04-30 07:30:00,Sunday,Bed,Sleeping,73,2023-04-30 07:45:00,99,99,99,90,Sinus Rhythm,Yes,No,No,No,Yes,3,No,No,No,Yes
+2023-05-01 20:30:00,Monday,Bed,Sitting,75,2023-05-01 21:20:00,98,98,99,90,Sinus Rhythm,Yes,No,Yes,Yes,Yes,5,Yes,No,No,Yes
+2023-05-03 16:50:00,Wednesday,Computer,Sitting,68,2023-05-03 05:00:00,98,98,98,105,Sinus Rhythm,Yes,No,No,No,Yes,8,Yes,No,No,No
+2023-05-04 15:40:00,Thursday,Bed,Sleeping,72,2023-05-04 16:05:00,99,99,99,85,Sinus Rhythm,Yes,No,No,No,Yes,5,No,No,No,Yes
+2023-05-12 12:00:00,Friday,Bed,Sleeping,72,2023-05-12 17:06:00,98,98,99,85,Sinus Rhythm,Yes,No,No,Yes,No,7,No,Yes,Yes,Yes
+2023-05-13 07:45:00,Saturday,Bathroom,Standing,70,2023-05-13 08:20:00,99,99,99,105,Sinus Rhythm,Yes,No,Yes,Yes,No,7,Yes,Yes,Yes,Yes
+2023-05-13 16:15:00,Saturday,Bed,Sleeping,71,2023-05-13 16:40:00,99,99,99,90,Sinus Rhythm,Yes,No,Yes,Yes,No,5,No,No,No,Yes
+2023-05-14 06:40:00,Sunday,Bed,Standing,72,2023-05-14 07:40:00,98,98,98,90,Sinus Rhythm,Yes,No,Yes,Yes,No,5,No,No,No,Yes
+2023-05-14 10:10:00,Sunday,Bed,Sitting,72,2023-05-14 10:40:00,98,98,98,100,Sinus Rhythm,Yes,No,Yes,Yes,Yes,5,Yes,Yes,No,Yes
+2023-05-15 03:00:00,Monday,Bed,Sitting,73,2023-05-15 03:30:00,98,98,98,108,Sinus Rhythm,Yes,No,Yes,Yes,Yes,8,Yes,Yes,No,Yes
+2023-05-15 12:30:00,Monday,Bed,Sleeping,80,2023-05-15 12:50:00,98,98,98,100,Sinus Rhythm,Yes,No,Yes,Yes,Yes,4,No,Yes,No,Yes
+2023-05-16 11:00:00,Tuesday,Computer,Sitting,72,2023-05-16 11:40:00,97,98,98,100,Sinus Rhythm,Yes,Yes,Yes,Yes,Yes,8,Yes,Yes,No,Yes
+2023-05-25 09:30:00,Thursday,Bed,Sleeping,79,2023-05-25 10:35:00,98,98,98,100,Sinus Rhythm,Yes,No,No,No,Yes,5,No,Yes,No,Yes
+2023-10-22 02:30:00,Sunday,Bed,Sitting,68,2023-10-22 02:55:00,98,98,98,111,Sinus Rhythm,Yes,Yes,Yes,No,Yes,4,Yes,No,No,No
+2024-05-07 20:00:00,Tuesday,Bed,Laying,73,2024-05-07 22:00:00,96,98,98,96,Sinus Rhythm,Yes,No,No,No,Yes,4,Yes,No,No,No
+2024-05-08 17:00:00,Wednesday,Computer,Sitting,73,2024-05-08 22:30:00,98,98,98,90,Sinus Rhythm,Yes,No,No,No,Yes,5,Yes,No,No,No
+2024-05-10 07:00:00,Friday,Bed,Laying,70,2024-05-10 09:30:00,98,98,98,85,Sinus Rhythm,Yes,No,No,Yes,Yes,4,No,No,No,No
+2024-06-28 06:30:00,Friday,Bed,Laying,77,2024-06-28 06:45:00,97,98,98,115,Sinus Rhythm,Yes,No,Yes,Yes,Yes,3,No,No,No,No
+2024-06-28 17:40:00,Friday,Bed,Laying,72,2024-06-28 17:05:00,99,99,99,77,Sinus Rhythm,Yes,No,Yes,Yes,Yes,5,No,No,No,No
